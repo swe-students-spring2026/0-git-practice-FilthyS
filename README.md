@@ -1,6 +1,11 @@
 # Git Practice
 
+## Article
 [Fighting the Last War: The Fall of Singapore and the Shift to AI-Native Software Development](https://heemeng.medium.com/fighting-the-last-war-the-fall-of-singapore-and-the-shift-to-ai-native-software-development-289fabb90535)
+
+by **Heemeng Foo**
+
+## Insights
 
 > If we assumed that AI will generate 70–80% of our code within two years, what would we stop doing today?
 
